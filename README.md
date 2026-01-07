@@ -33,7 +33,7 @@ Connects to Astra DB using the Data API and stores information including but not
 ---
 
 ## 📁 Project Structure
-project/
+files
 - app.py
 - tfidf_vectorizer.pkl
 - fraud_spotter.pkl
