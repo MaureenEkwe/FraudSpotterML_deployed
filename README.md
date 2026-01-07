@@ -34,13 +34,12 @@ Connects to Astra DB using the Data API and stores information including but not
 
 ## 📁 Project Structure
 project/
-│
-├── app.py
-├── tfidf_vectorizer.pkl
-├── fraud_spotter.pkl
-├── README.md
-├── logo.png
-├── training model.py (optional- shows how ML classifier was trained)
+- app.py
+- tfidf_vectorizer.pkl
+- fraud_spotter.pkl
+- README.md
+- logo.png
+- training model.py (optional- shows how ML classifier was trained)
 ---
 
 ## 🧠 How It Works
